@@ -1,6 +1,6 @@
-# ML-PPI
+# MultiLabel-PPI
 
-Official implementation of **"ML-PPI: Riemannian Pair Modeling in ESM2-Enhanced Hyperbolic
+Official implementation of **"MultiLabel-PPI: Riemannian Pair Modeling in ESM2-Enhanced Hyperbolic
 Graph Networks for Multi-Label Protein–Protein Interaction Prediction."**
 
 Multi-label PPI prediction over 7 STRING interaction types on SHS27K / SHS148K.
